@@ -1,5 +1,10 @@
 # Agenda
 
+* Introductions
+* Purpose of this squad
+* Format of this squad
+* What do you hope to get out of this squad?
+
 # Homework
 
 ## Required
