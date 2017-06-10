@@ -18,6 +18,6 @@ We will go over the lessons assigned the previous week and discuss, answer any q
 
 I will be including the assignments for each week - along with any supplementary material I recommend (though it will not be required) in this github repo.
 
-[Week 1 is here](week_1.md)
+[Week 1 is here](week_1/README.md)
 
 If you have any questions, reach out in the #squad-linux channel!
