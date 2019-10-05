@@ -12,7 +12,7 @@ If you are missing any of the above, please reach out to Nell and she will get y
 
 ## How does this work
 
-We will meet via [zoom](https://zoom.us/) (the link will be distributed in the #squad-linux channel) every Saturday at 11 AM Pacific (except for drill weekends).
+We will meet via [zoom](https://zoom.us/) (the link will be distributed in the `#squad-linux` channel) every Saturday at 11 AM Pacific (except for drill weekends).
 
 We will go over the lessons assigned the previous week and discuss, answer any questions, etc.  We also might do some additional exercises as a group.
 
@@ -20,4 +20,10 @@ I will be including the assignments for each week - along with any supplementary
 
 [Week 1 is here](week_1/README.md)
 
-If you have any questions, reach out in the #squad-linux channel!
+[Week 2 is here](week_2/README.md)
+
+[Week 3 is here](week_3/README.md)
+
+[Week 4 is here](week_3/README.md)
+
+If you have any questions, reach out in the `#squad-linux` channel!
